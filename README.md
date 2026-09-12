@@ -1,37 +1,37 @@
-# SMK NURUL FALAH - XI BDP SYSTEM
+# SMK NURUL FALAH - XI BDP 
 
 ![Project Status](https://img.shields.io/badge/Status-Unmaintained-gray)
 ![Language](https://img.shields.io/badge/Language-HTML%2FJavaScript-blue)
 ![Author](https://img.shields.io/badge/Author-Arling-blue)
 
-**Digital Information System for Class XI Business Online and Marketing (BDP) - SMK Nurul Falah.** A website project with cyberpunk-themed design, interactive elements, and responsive layout.
+**Sistem Informasi Digital untuk Kelas XI Bisnis Daring dan Pemasaran (BDP) - SMK Nurul Falah.** Proyek situs web dengan desain bertema cyberpunk, elemen interaktif, dan tata letak responsif.
 
-🔗 **Live Demo:** [smk-nufa-11-pemasaran.netlify.app](https://smk-nufa-11-pemasaran.netlify.app)
-
----
-
-## Features
-
-* **Matrix Rain Background** - Canvas-based green code animation effect
-* **CRT Monitor Effect** - Scanline overlay for retro monitor appearance
-* **Glitch Typography** - Dynamic text distortion effects
-* **Text Scrambler** - Character animation when loading content
-* **Audio Engine** - Synthesized button sounds and background music with mute control
-* **Lockscreen** - Secure system entry page
-* **Responsive Design** - Mobile and desktop compatible
-* **Running Text** - CSS-based marquee animation
+🔗 **Demo Langsung:** [smk-nufa-11-pemasaran.netlify.app](https://smk-nufa-11-pemasaran.netlify.app)
 
 ---
 
-## Technologies
+## Fitur
 
-* **HTML5** - Semantic structure
-* **CSS3** - Animations, Flexbox, Grid, CSS Variables
-* **JavaScript (ES6+)** - Canvas, Web Audio API, component logic
-* **Google Fonts** - Share Tech Mono font
+* **Matrix Rain Background** - Efek animasi kode hijau berbasis canvas
+* **CRT Monitor Effect** - Overlay scanline untuk tampilan monitor retro
+* **Glitch Typography** - Efek distorsi teks dinamis
+* **Text Scrambler** - Animasi karakter saat konten dimuat
+* **Audio Engine** - Suara tombol sintetis dan musik latar dengan kontrol mute
+* **Lockscreen** - Halaman masuk sistem yang aman
+* **Responsive Design** - Kompatibel dengan mobile dan desktop
+* **Running Text** - Animasi marquee berbasis CSS
+
+---
+
+## Teknologi
+
+* **HTML5** - Struktur semantik
+* **CSS3** - Animasi, Flexbox, Grid, CSS Variables
+* **JavaScript (ES6+)** - Canvas, Web Audio API, logika komponen
+* **Google Fonts** - Font Share Tech Mono
 
 ---
 
 ## Status
 
-This project is **no longer maintained**. It was created as an educational project for Class XI students at SMK Nurul Falah.
+Proyek ini **sudah tidak dikelola lagi**. Dibuat sebagai proyek edukasi dan uji coba di masa lalu.
